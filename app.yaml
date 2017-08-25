@@ -1,0 +1,5 @@
+env: flex
+runtime: nodejs
+skip_files:
+- Dockerfile
+- docker*
